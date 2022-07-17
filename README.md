@@ -11,7 +11,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/KhushbooDhull/The-Sparks-Foundation-Tasks/blob/main/GRIP%20Tasks/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb)
 
 
