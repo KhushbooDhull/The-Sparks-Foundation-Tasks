@@ -24,7 +24,7 @@ _Please click on the images on right side to view my solution._
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/KhushbooDhull/The-Sparks-Foundation-Tasks/blob/main/GRIP%20Tasks/Task-2%20Prediction%20Using%20Unsupervised%20ML.ipynb)
 
-# Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 Please click on the images on right side to view my solution.
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
