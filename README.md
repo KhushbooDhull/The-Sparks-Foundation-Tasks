@@ -31,7 +31,7 @@ Please click on the images on right side to view my solution.
 2. Use R or Python or perform this task.
 3. Data can be found at https://bit.ly/3kXTdox
 
-
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/KhushbooDhull/The-Sparks-Foundation-Tasks/blob/main/GRIP%20Tasks/Task-3_Decision_Tree.ipynb)
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 Please click on the images on right side to view my solution.
 
@@ -39,7 +39,7 @@ For the given ‘Iris’ dataset, create the Decision Tree classifier and visual
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 Data can be found at https://bit.ly/3kXTdox
 
-
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/KhushbooDhull/The-Sparks-Foundation-Tasks/blob/main/GRIP%20Tasks/Task-4_Stock_Price.ipynb)
 ### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 Please click on the images on right side to view my solution.
 
